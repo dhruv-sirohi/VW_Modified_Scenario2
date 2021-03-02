@@ -6,7 +6,7 @@ Some of the initial code used was sourced from: https://vowpalwabbit.org/tutoria
 
 ### Performance Plot:
 
-<img src="https://github.com/dhruv-sirohi/VW_Modified_Scenario2/blob/main/Algorithm_Performance_Plot.png" width="361" height="245" />
+<img src="https://github.com/dhruv-sirohi/VW_Modified_Scenario2/blob/main/Performance_Plot.jpg"/>
 
 ### Comments on Algorithm Performance:
 
