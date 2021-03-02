@@ -16,4 +16,4 @@ The Epsilon-Greedy algorithm consistently performs well, with a mean click throu
 
 The Softmax algorithm also performs very well initially. It reaches a mean click through rate >0.95 until the first change in the reward distribution, after which performance deteriorates. Performance continues to decline for some time after the change, before improving. This is to be expected, because the non-zero tau value leads to less random exploration. This means that changes in the reward distribution aren't discovered as quickly.
 
-The Non-Learning algorithm consistently performs poorly, with a mean click through rate around ~0.15, which is significantly worse than all other algorithms. This value does not change as the reward distribution changes. This is to be expected because this algorithm only chooses actions random
+The Non-Learning algorithm consistently performs poorly, with a mean click through rate around ~0.15, which is significantly worse than all other algorithms. This value does not change as the reward distribution changes. This is to be expected because actions are chosen totally randomly.
