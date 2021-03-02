@@ -6,7 +6,7 @@ Some of the initial code used in this repository was sourced from: https://vowpa
 
 ### Performance Plot:
 
-<img src="https://github.com/dhruv-sirohi/VW_Modified_Scenario2/blob/main/Algorithm_Performance.png" width="361" height="245" />
+<img src="https://github.com/dhruv-sirohi/VW_Modified_Scenario2/blob/main/Algorithm_Performance_Plot.png" width="361" height="245" />
 
 ### Comments on Algorithm Performance:
 
